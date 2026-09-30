@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ovineko/schepherd/releases/download/v0.1.0/schepherd_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/ovineko/schepherd/releases/download/v0.1.1/schepherd_0.1.1_windows_amd64.zip",
             "bin": [
                 "schepherd.exe"
             ],
-            "hash": "1944d592e09de91eb9ba8b0bf548a0f6873f6227977a63801d93a8656a5e84e1"
+            "hash": "a1868ed92327916fab91b99cd361bbb6f68b526f00cb105d9d8697fc9f7a1059"
         },
         "arm64": {
-            "url": "https://github.com/ovineko/schepherd/releases/download/v0.1.0/schepherd_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/ovineko/schepherd/releases/download/v0.1.1/schepherd_0.1.1_windows_arm64.zip",
             "bin": [
                 "schepherd.exe"
             ],
-            "hash": "a00104b4c31385731419f6d5443017866baee7791a7665ed46f3a4cac7fafc60"
+            "hash": "30ee427d42566679b3b483ff019edfa007fcdc519238d42e4c9e9df722aaf2fd"
         }
     },
     "homepage": "https://schepherd.ovineko.com",
